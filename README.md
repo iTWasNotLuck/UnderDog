@@ -1,19 +1,12 @@
-p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
-
-
-<b>Hello, </b><br>
+Hello there,  
 
 This is my wordplay submission for UnderDog Devs Cohort-5. 
 
--Alexander W Haynes
 
-#Thank you
 
-<br><br>
+Thank you,
+
+Alexander W Haynes
+
+
+
